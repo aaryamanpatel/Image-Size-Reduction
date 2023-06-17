@@ -2,7 +2,7 @@ from PIL import Image
 import os
 
 # Specify the folder path containing the images
-folder_path = r"#replace with the location of your folder"
+folder_path = r"/path/to/folder" #replace with the location of your folder with images
 
 # Create the "Reduced" directory if it does not exist
 output_directory = os.path.join(folder_path, "Reduced")
