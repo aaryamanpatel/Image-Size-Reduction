@@ -19,17 +19,21 @@ This is very simple Python script that you can run on your terminal to reduce th
 
 5. Finally, just run the script and it will make a reduced copy of all the images in your folder and save it in a new subfolder called **Reduced"**
 
+## Results
+
+
+**<h3 align="center">Before</h3>**
 <p align="center" style=" text-align:center; font-weight:bold">
     <img src="/before.png" alt="Before Reduction">
 </p>
 
-**<p style="text-align: center;">Before</p>**
 
+**<h3 align="center">After!</h3>**
 <p align="center" style="text-align:center; font-weight:bold">
     <img src="/after.png" alt="After Reduction">
 </p>
 
-**<h1 align="center">After!</h1>**
+
 
 ## Enjoy and share your reduced size images!
 
