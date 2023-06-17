@@ -10,7 +10,7 @@ This is very simple Python script that you can run on your terminal to reduce th
 
     This should've downloaded this script on your computer under the folder name "Image-Size-Reduction"
 
-2. Open the *image_size_reducation.py* file on your preferred text editor, like VS Code
+2. Open the *image_size_reducation.py* file on your preferred text editor, like VS Code or Notepad++
 
 3. Change the variable `folder_path` with the location of your folder containing the images
 (It will be in a format like "C:\Users\AP\Photography")
@@ -19,6 +19,9 @@ This is very simple Python script that you can run on your terminal to reduce th
 
 5. Finally, just run the script and it will make a reduced copy of all the images in your folder and save it in a new subfolder called **Reduced"**
 
+![Before](/before.png)
+
+![After](/after.png)
 
 ## Enjoy and share your reduced size images!
 
