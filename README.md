@@ -19,7 +19,7 @@ This is very simple Python script that you can run on your terminal to reduce th
 
 5. Finally, just run the script and it will make a reduced copy of all the images in your folder and save it in a new subfolder called **Reduced"**
 
-<p align="center">
+<p align="center" style="text-align:center; font-weight:bold">
     <img src="/before.png" alt="Before Reduction">
     Before
 </p>
@@ -28,9 +28,9 @@ This is very simple Python script that you can run on your terminal to reduce th
 
 **Before**
 
-<p align="center">
+<p align="center" style="text-align:center; font-weight:bold">
     <img src="/after.png" alt="After Reduction">
-    <p style="font-weight:bold">After!</p>
+    After!
 </p>
 
 <!-- ![After](/after.png) -->
