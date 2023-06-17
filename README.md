@@ -21,15 +21,15 @@ This is very simple Python script that you can run on your terminal to reduce th
 
 <p align="center" style=" text-align:center; font-weight:bold">
     <img src="/before.png" alt="Before Reduction">
-    <br>
-    <p style="text-align: center;">Before</p>
 </p>
+
+**<p style="text-align: center;">Before</p>**
 
 <p align="center" style="text-align:center; font-weight:bold">
     <img src="/after.png" alt="After Reduction">
-    <br>
-    <p style="text-align: center; font-weight:bold;">After!</p>
 </p>
+
+**<p style="text-align: center;">After!</p>**
 
 ## Enjoy and share your reduced size images!
 
