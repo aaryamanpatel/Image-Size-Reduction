@@ -19,9 +19,9 @@ This is very simple Python script that you can run on your terminal to reduce th
 
 5. Finally, just run the script and it will make a reduced copy of all the images in your folder and save it in a new subfolder called **Reduced"**
 
-![Before](/before.png)
+![Before](/before.png) --> Before
 
-![After](/after.png)
+![After](/after.png) --> After
 
 ## Enjoy and share your reduced size images!
 
