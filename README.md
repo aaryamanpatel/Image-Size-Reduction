@@ -29,7 +29,7 @@ This is very simple Python script that you can run on your terminal to reduce th
     <img src="/after.png" alt="After Reduction">
 </p>
 
-**<p style="text-align: center;">After!</p>**
+**<h1 align="center">After!</h1>**
 
 ## Enjoy and share your reduced size images!
 
