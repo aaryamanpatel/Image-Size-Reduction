@@ -24,19 +24,11 @@ This is very simple Python script that you can run on your terminal to reduce th
     Before
 </p>
 
-<!-- ![Before](/before.png) -->
-
-**Before**
-
 <p align="center" style="text-align:center; font-weight:bold">
     <img src="/after.png" alt="After Reduction">
     After!
 </p>
 
-<!-- ![After](/after.png) -->
-
-**After**
-
 ## Enjoy and share your reduced size images!
 
-*Note: This was developed for a Windows and Linux operating System*
+*Note: This was developed for Windows and Linux Operating System*
