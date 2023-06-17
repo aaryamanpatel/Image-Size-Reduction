@@ -1,6 +1,6 @@
 # The Image Size Reduction Script!
 
-This is very simple Python script that you can run on your terminal to reduce the size of any and all image files. 
+Coded on a lazy Friday afternoon, this is very simple Python script that you can run on your terminal to reduce the size of any and all image files. 
 
 # Steps
 
